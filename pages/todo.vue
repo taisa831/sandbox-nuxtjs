@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <logo />
     <TodoList/>
   </div>
 </template>
